@@ -2,7 +2,7 @@
 
 # Snack Money
 
-An unoffical Mobile App for [Lunch Money](https://lunchmoney.app/).
+An unofficial Mobile App for [Lunch Money](https://lunchmoney.app/).
 
 [![GitHub All Releases](https://img.shields.io/github/downloads/redsolver/snackmoney/total?style=for-the-badge)](https://github.com/redsolver/snackmoney/releases)
 ![European Union Public Licence](https://img.shields.io/github/license/redsolver/snackmoney?style=for-the-badge)
